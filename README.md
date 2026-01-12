@@ -6,8 +6,8 @@ Welcome to the **official GitHub organization for the Maryville University Artif
 
 ## Links
 
-- GitHub Organization: https://github.com/MaryvilleUniversity-AI
-- Repositories: https://github.com/orgs/MaryvilleUniversity-AI/repositories
+- GitHub Organization: [MaryvilleUniversity-AI](https://github.com/MaryvilleUniversity-AI)  
+- Repositories: [All Repositories](https://github.com/orgs/MaryvilleUniversity-AI/repositories)
 
 ---
 
@@ -15,9 +15,9 @@ Welcome to the **official GitHub organization for the Maryville University Artif
 
 The **Maryville University AI Lab** is designed as a **learning and research hub** for students at Maryville University and anyone interested in AI. Here, you can:
 
-- Explore **educational projects** and example code
-- Learn **AI and machine learning concepts** through practical implementations
-- Discover **applied data science and computer vision projects**
+- Explore **educational projects and example code developed by faculty and lab staff**  
+- Learn **AI and machine learning concepts** through practical implementations  
+- Discover **applied data science and computer vision projects**  
 - Engage with **faculty-led and curated AI resources**
 
 Our mission is to make **Artificial Intelligence education accessible, practical, and industry-relevant**, while supporting innovation and academic research.
@@ -28,52 +28,51 @@ Our mission is to make **Artificial Intelligence education accessible, practical
 
 Repositories in this lab may include:
 
-- **Machine Learning**
+- **Machine Learning**  
   Supervised and unsupervised learning, model evaluation, and applied ML workflows
 
-- **Computer Vision**
+- **Computer Vision**  
   Image classification, object detection, and visual data analysis
 
-- **Data Science**
+- **Data Science**  
   Data preprocessing, analysis, visualization, and real-world datasets
 
-- **AI Education**
-  Learning-focused code examples and sample projects that demonstrate core artificial intelligence and machine learning concepts
+- **AI Education**  
+  Faculty-created code examples and sample projects that demonstrate core AI and machine learning concepts
 
-- **Research Projects**
-  Faculty-led and student-supported research initiatives in AI and data science
+- **Research Projects**  
+  Faculty-led and lab apprentice-supported research initiatives in AI and data science
 
-> View all repositories:
-> https://github.com/orgs/MaryvilleUniversity-AI/repositories
+> View all repositories: [Repositories](https://github.com/orgs/MaryvilleUniversity-AI/repositories)
 
 ---
 
 ## Who This Lab Is For
 
-- **Maryville University students** studying AI, Computer Science, or Data Science
-- **Faculty and researchers** collaborating on AI initiatives
-- **Prospective students** exploring Maryville's AI programs
+- **Maryville University students** studying AI, Computer Science, or Data Science  
+- **Faculty and researchers** collaborating on AI initiatives  
+- **Prospective students** exploring Maryville's AI programs  
 - **Industry partners and recruiters** interested in academic AI work
 
 ---
 
 ## How to Use These Resources
 
-- Explore repositories to **learn AI concepts through code**
-- Use projects for **coursework, independent study, or research**
+- Explore repositories to **learn AI concepts through faculty-created code**  
+- Use projects for **coursework, independent study, or research**  
 - Reference examples for **internships, competitions, and portfolios**
-  
+
 ---
 
 ## Connect with Maryville University
 
-- **Maryville University:** https://www.maryville.edu/
-- **Computer Science Department:** https://www.maryville.edu/as/computer-science/
-- **Location:** St. Louis, Missouri
+- **Maryville University:** [maryville.edu](https://www.maryville.edu/)  
+- **Computer Science Department:** [CS Department](https://www.maryville.edu/as/computer-science/)  
+- **Location:** St. Louis, Missouri  
 - **Contact:** [amaurya@maryville.edu](mailto:amaurya@maryville.edu)
 
 ---
 
 ## Keywords
 
-Artificial Intelligence, AI Lab, Machine Learning, Data Science, Computer Vision, AI Education, University AI Organization, Maryville University, Student AI Projects, Faculty Research
+Artificial Intelligence, Machine Learning, Data Science, Computer Vision, AI Education, University AI Lab, Maryville University, Faculty Research, Educational AI Projects
