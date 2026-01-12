@@ -1,6 +1,6 @@
-# Maryville University AI Organization
+# Maryville University AI Lab
 
-Welcome to the **official GitHub organization for the Maryville University Artificial Intelligence (AI) initiative**, a central resource for students and the broader academic community to explore **AI, Machine Learning, Computer Vision, and Data Science** through practical examples and projects in St. Louis, Missouri.
+Welcome to the **official GitHub organization for the Maryville University Artificial Intelligence (AI) Lab**, a central resource for students and the broader academic community to explore **AI, Machine Learning, Computer Vision, and Data Science** through practical examples and projects in St. Louis, Missouri.
 
 ---
 
@@ -11,9 +11,9 @@ Welcome to the **official GitHub organization for the Maryville University Artif
 
 ---
 
-## About This Resource
+## About This Lab
 
-The **Maryville University AI Organization** is designed as a **learning and research hub** for students at Maryville University and anyone interested in AI. Here, you can:
+The **Maryville University AI Lab** is designed as a **learning and research hub** for students at Maryville University and anyone interested in AI. Here, you can:
 
 - Explore **educational projects** and example code
 - Learn **AI and machine learning concepts** through practical implementations
@@ -26,7 +26,7 @@ Our mission is to make **Artificial Intelligence education accessible, practical
 
 ## Areas of Focus
 
-Repositories in this organization may include:
+Repositories in this lab may include:
 
 - **Machine Learning**
   Supervised and unsupervised learning, model evaluation, and applied ML workflows
@@ -48,7 +48,7 @@ Repositories in this organization may include:
 
 ---
 
-## Who This Organization Is For
+## Who This Lab Is For
 
 - **Maryville University students** studying AI, Computer Science, or Data Science
 - **Faculty and researchers** collaborating on AI initiatives
@@ -76,4 +76,4 @@ Repositories in this organization may include:
 
 ## Keywords
 
-Artificial Intelligence, Machine Learning, Data Science, Computer Vision, AI Education, University AI Organization, Maryville University, Student AI Projects, Faculty Research
+Artificial Intelligence, AI Lab, Machine Learning, Data Science, Computer Vision, AI Education, University AI Organization, Maryville University, Student AI Projects, Faculty Research
