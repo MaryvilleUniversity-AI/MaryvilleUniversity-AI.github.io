@@ -5,6 +5,7 @@ body {
   max-width: 960px;
   margin: auto;
   padding: 24px;
+  line-height: 1.6;
 }
 
 header {
@@ -36,10 +37,29 @@ nav {
 nav a {
   margin: 0 12px;
   font-weight: 500;
+  text-decoration: none;
+  color: #0366db;
+  padding-top: 20px;
+  border-top: 1px solid #e5e7eb;
+}
+
+nav a:hover {
+  text-decoration: underline;
 }
 
 footer {
   margin-top: 40px;
   font-size: 0.9em;
   color: #555;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 16px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
 }
