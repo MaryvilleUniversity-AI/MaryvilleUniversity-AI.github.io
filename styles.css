@@ -23,15 +23,19 @@ section {
 
 h1 {
     font-size: 2.5rem;
+    font-weight: 700;
 }
 
 h2 {
     color: #0033a0;
+    font-weight: 600;
 }
 
 nav {
   text-align: center;
   margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px solid #e5e7eb;
 }
 
 nav a {
@@ -39,12 +43,18 @@ nav a {
   font-weight: 500;
   text-decoration: none;
   color: #0366db;
-  padding-top: 20px;
-  border-top: 1px solid #e5e7eb;
 }
 
 nav a:hover {
   text-decoration: underline;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 6px;
 }
 
 footer {
