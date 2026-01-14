@@ -1,21 +1,16 @@
 # Maryville University AI Lab
 
+[Official Website](https://maryvilleuniversity-ai.github.io) | [Repositories](https://github.com/MaryvilleUniversity-AI)
+
 Welcome to the **official GitHub organization for the Maryville University Artificial Intelligence (AI) Lab**, a central resource for students and the broader academic community to explore **AI, Machine Learning, Computer Vision, and Data Science** through practical examples and projects in St. Louis, Missouri.
-
----
-
-## Links
-
-- GitHub Organization: [MaryvilleUniversity-AI](https://github.com/MaryvilleUniversity-AI)
-- Repositories: [All Repositories](https://github.com/orgs/MaryvilleUniversity-AI/repositories)
 
 ---
 
 ## About This Lab
 
-The **Maryville University AI Lab** is designed as a **learning and research hub** for students at Maryville University and anyone interested in AI. Here, you can:
+The **Maryville University AI Lab** is a **hands-on learning and research hub** for students and researchers. Here, you can:
 
-- Explore **educational projects and example code developed by faculty and lab staff**
+- Explore **faculty-created projects and example code**
 - Learn **AI and machine learning concepts** through practical implementations
 - Discover **applied data science and computer vision projects**
 - Engage with **faculty-led and curated AI resources**
@@ -73,6 +68,5 @@ Repositories in this lab may include:
 
 ---
 
-## Keywords
-
-Artificial Intelligence, Machine Learning, Data Science, Computer Vision, AI Education, University AI Lab, Maryville University, Faculty Research, Educational AI Projects
+<!-- Keywords for SEO (do not display) -->
+<!-- Keywords: Artificial Intelligence, Machine Learning, Data Science, Computer Vision, AI Education, University AI Lab, Maryville University, Faculty Research, Educational AI Projects -->
