@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="src/images/maryville_ai_logo.jpg" alt="Maryville University AI Lab Logo" width="200">
+</p>
+
+
+
 # Maryville University AI Lab
 
 [Official Website](https://maryvilleuniversity-ai.github.io) | [Repositories](https://github.com/MaryvilleUniversity-AI)
