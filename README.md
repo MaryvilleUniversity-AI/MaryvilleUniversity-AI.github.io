@@ -44,26 +44,26 @@ Repositories in this lab may include:
 
 ## Who This Lab Is For
 
-- **Maryville University students** studying AI, Computer Science, or Data Science
-- **Faculty and researchers** collaborating on AI initiatives
-- **Prospective students** exploring Maryville's AI programs
+- **Maryville University students** studying AI, Computer Science, or Data Science  
+- **Faculty and researchers** collaborating on AI initiatives  
+- **Prospective students** exploring Maryville's AI programs  
 - **Industry partners and recruiters** interested in academic AI work
 
 ---
 
 ## How to Use These Resources
 
-- Explore repositories to **learn AI concepts through faculty-created code**
-- Use projects for **coursework, independent study, or research**
+- Explore repositories to **learn AI concepts through faculty-created code**  
+- Use projects for **coursework, independent study, or research**  
 - Reference examples for **internships, competitions, and portfolios**
 
 ---
 
 ## Connect with Maryville University
 
-- **Maryville University:** [maryville.edu](https://www.maryville.edu/)
-- **Computer Science Department:** [CS Department](https://www.maryville.edu/as/computer-science/)
-- **Location:** St. Louis, Missouri
+- **Maryville University:** [maryville.edu](https://www.maryville.edu/)  
+- **Computer Science Department:** [CS Department](https://www.maryville.edu/as/computer-science/)  
+- **Location:** St. Louis, Missouri  
 - **Contact:** [amaurya@maryville.edu](mailto:amaurya@maryville.edu)
 
 ---
